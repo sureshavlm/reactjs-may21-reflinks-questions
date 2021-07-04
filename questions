@@ -1,0 +1,13 @@
+What is ReactJS ?
+Why should I use reactJS over Angular?
+How reactJS Virtual DOM works?
+Performance opportunities?
+what pure components?
+What are the advantages of Hooks in reactJS?
+what is the use of useState()?
+what is the Redux framework? 
+Architecture of Redux? Actions,reducer, Dispatch, middleware/Saga store
+Lifecyle of components?
+How garbage collection works or what is the user coponentWillUnMount?
+What is the difference between props vs state?
+What is the code coverage of unit testing?

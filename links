@@ -1,0 +1,55 @@
+
+Project without nodeJS:
+------------------------
+https://dev.to/luispa/lets-try-react-without-nodejs-3a7
+https://medium.com/@chrislewisdev/react-without-npm-babel-or-webpack-1e9a6049714
+
+Visual Studio Code:
+--------------------
+https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+
+
+TypeScript: 
+------------
+https://code.visualstudio.com/docs/nodejs/reactjs-tutorial
+https://typeofnan.dev/your-first-react-typescript-project-todo-app/
+
+React with WebPack
+------------------
+https://www.smashingmagazine.com/2020/05/typescript-modern-react-projects-webpack-babel/
+
+Login Example
+-------------
+Project Structure
+Service
+Reducer
+Actions
+State
+Middlwares etc.,
+Components
+
+ReactJS Redux flow with products
+---------------------------------
+https://auth0.com/blog/beyond-create-react-app-react-router-redux-saga-and-more/
+
+https://www.google.com/search?q=react+saga+tutorial&rlz=1C5CHFA_enIN729IN729&oq=reactjs+saga&aqs=chrome.1.69i57j0i10i22i30j0i22i30l3.4316j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=_MLHWYObgH96Y4-EP3-mX2AE18
+
+https://jasonwatmore.com/post/2017/09/16/react-redux-user-registration-and-login-tutorial-example
+
+Unit Test
+---------
+
+https://reactjs.org/docs/testing-recipes.html
+
+
+https://create-react-app.dev/docs/running-tests/
+
+https://www.toptal.com/react/tdd-react-unit-testing-enzyme-jest
+
+https://krishankantsinghal.medium.com/testing-login-react-component-using-jest-and-enzyme-888daaab72ba
+
+https://wanago.io/2018/09/17/javascript-testing-tutorial-part-four-mocking-api-calls-and-simulating-react-components-interactions/
+
+nginx
+-----
+https://ubiq.co/tech-blog/configure-multiple-host-names-nginx/
